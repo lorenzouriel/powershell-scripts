@@ -1,0 +1,1 @@
+﻿Start-Process -Wait -FilePath "C:\vs_Community.exe" -ArgumentList '--installPath "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community" --add Microsoft.VisualStudio.Workload.NetWeb --add Microsoft.VisualStudio.Workload.Data --quiet' -WorkingDirectory "C:\"
