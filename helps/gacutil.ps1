@@ -1,5 +1,5 @@
 ﻿# Caminho para a pasta que contém os assemblies
-$assemblyDir = "C:\Users\loren\source\repos\faturamento_parceiro\ETL\ETL\Documentation\assemblies"
+$assemblyDir = "C:\Users\assemblies"
 
 # Caminho para o gacutil.exe (exemplo: caso ele esteja na pasta do Visual Studio)
 $gacutilPath = "C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools"
